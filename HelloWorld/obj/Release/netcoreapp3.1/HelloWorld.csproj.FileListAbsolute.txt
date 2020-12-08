@@ -1,0 +1,13 @@
+/app/bin/Release/netcoreapp3.1/HelloWorld
+/app/bin/Release/netcoreapp3.1/HelloWorld.deps.json
+/app/bin/Release/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/app/bin/Release/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/app/bin/Release/netcoreapp3.1/HelloWorld.dll
+/app/bin/Release/netcoreapp3.1/HelloWorld.pdb
+/app/obj/Release/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/app/obj/Release/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/app/obj/Release/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/app/obj/Release/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/app/obj/Release/netcoreapp3.1/HelloWorld.dll
+/app/obj/Release/netcoreapp3.1/HelloWorld.pdb
+/app/obj/Release/netcoreapp3.1/HelloWorld.genruntimeconfig.cache

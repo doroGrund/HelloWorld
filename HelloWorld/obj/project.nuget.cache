@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lHc7zGl/G7GpEgUoR3471XXp3wOhXX2Jm0CfyMXrTP9uFO6f+AQnFTzDbGL29C8FZ6Zvqc4r6ZrxZA10bgsfEQ==",
+  "dgSpecHash": "UzMbqJ6lgE/Mgg9z2/vRlOWy32W9IWem5A2eWb0iPv8NfvgtbRd9sYiKlH/7B/hE0P7hds2wmdLHRz1totvmzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\d_gru\\git\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/app/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.9/microsoft.netcore.app.host.linux-x64.3.1.9.nupkg.sha512"
+  ],
   "logs": []
 }
