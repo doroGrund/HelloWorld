@@ -1,0 +1,5 @@
+/app/out/HelloWorld
+/app/out/HelloWorld.dll
+/app/out/HelloWorld.deps.json
+/app/out/HelloWorld.runtimeconfig.json
+/app/out/HelloWorld.pdb
